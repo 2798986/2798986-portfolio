@@ -1,0 +1,1 @@
+The first thing I've learnt is that github is like a google drive, but specifically for code and is more interactive. Secondly, cloning a repository is not dificult, the best way is to use VS Code and then follow the instructions to get it done. Then lastly, when creating a new file, I need to specifiy the file type, for example ".txt"
